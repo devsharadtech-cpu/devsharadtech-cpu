@@ -57,11 +57,4 @@ Currently learning and building projects in Data Analytics and Backend Developme
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devsharadtech-cpu&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsharadtech-cpu&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=devsharadtech-cpu&theme=tokyonight&hide_border=true" />
-</p> 
+https://github-readme-stats-sigma-five.vercel.app/api?username=devsharadtech-cpu&show_icons=true&theme=tokyonight&hide_border=true
