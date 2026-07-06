@@ -16,3 +16,11 @@ Currently learning and building projects in Data Analytics and Backend Developme
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devsharadtech-cpu&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in Computer Science & Engineering
+- 💡 Interested in Data Science, Machine Learning and Java Backend Development
+- 🌱 Currently learning SQL, Python, Power BI, Pandas, NumPy and Spring Boot
+- 🚀 Building projects to strengthen problem-solving and software development skills
+- 🎯 Goal: Become a Software Engineer / Data Scientist
+  
