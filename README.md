@@ -16,7 +16,7 @@ Currently learning and building projects in Data Analytics and Backend Developme
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devsharadtech-cpu&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
-## 👨‍💻 About Me
+** 👨‍💻 About Me**
 
 - 🎓 B.Tech in Computer Science & Engineering
 - 💡 Interested in Data Science, Machine Learning and Java Backend Development
