@@ -81,15 +81,15 @@ Currently learning and building projects in Data Analytics and Backend Developme
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+<a href="https://www.linkedin.com/in/sharad-thakur-9435b7297?utm_source=share_via&utm_content=profile&utm_medium=member_android"_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your.email@gmail.com">
+<a href="devsharad.tech@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.kaggle.com/your-username">
+<a href="https://www.kaggle.com/">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
