@@ -65,3 +65,42 @@ Currently learning and building projects in Data Analytics and Backend Developme
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=devsharadtech-cpu&theme=tokyonight&hide_border=true" />
 </p>
+## 🏆 Certifications
+
+- 📜 SQL for Data Analysis *(In Progress)*
+- 📜 Power BI *(In Progress)*
+- 📜 Python for Data Science *(In Progress)*
+- 📜 Java Programming *(In Progress)*
+  ## 💻 Coding Profiles
+
+<p align="left">
+<a href="https://leetcode.com/your_username"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/your_username"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/your_username"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+</p>
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your.email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/your-username">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/your-username">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/your-username">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+</p>
+## 💡 Quote
+
+> "First, solve the problem. Then, write the code."
